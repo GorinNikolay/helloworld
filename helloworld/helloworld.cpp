@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-void newfunction() {
+void mewfunction() {
     std::cout << "wow newfunction!!!";
 }
 int main()
